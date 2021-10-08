@@ -1,0 +1,58 @@
+<div id="home2">
+        <h1>About Our Business</h1>
+    <div class="carroca">
+        
+        <input type="radio" name="position" checked />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <main id="carousel">
+          <div class="slide">
+            
+                <h2>Best Brands</h2>
+                <p>Here you find the best proucts and the biggest variety.</p>
+                    <div class="img2">
+                        <img src="images/gifprojeto.gif">
+                    </div>
+            
+          </div>
+          <div class="slide">
+            
+                <h2>Warranty</h2>
+                <p>All purchases guaranteed for up to 60 days with Eletronic Invoice.</p>
+                    <div class="img2">
+                        <img src="images/verifieda.png">
+                    </div>
+              
+          </div>
+          <div class="slide">
+            
+                <h2>Free Shipping</h2>
+                <p>All purchases with free shipping to the south and southeast.</p>
+                    <div class="img2">
+                        <img src="images/fretegr.png">
+                    </div>
+            
+          </div>
+          <div class="slide">
+            
+                <h2>Deals Everyday</h2>
+                <p>Everyday a new deal just for you in our website, with 50% off.</p>
+                    <div class="img2">
+                        <img src="images/offs.png">
+                    </div>
+            
+          </div>
+          <div class="slide">
+            
+                <h2>Meet Us</h2>
+                <p>Come here and meet us, at our physical store in Brazil, Rio de Janeiro.</p>
+                    <div class="img2">
+                        <img src="images/ourstore.png">
+                    </div>
+            
+          </div>
+          <main>
+    </div>
+    </div>

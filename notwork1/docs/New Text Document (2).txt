@@ -1,0 +1,14 @@
+<div class="txthome3">Best Brands</div>
+    <div id="home4">
+        
+    <div class="slider">
+        <div class="slide-track">
+            <div class="slide2"><img src="images/corsair.png" height="250px"></div>
+            <div class="slide2"><img src="images/Cooler_Master_Logo.svg.png" height="250px"></div>
+            <div class="slide2"><img src="images/logologi.png" height="250px"></div>
+            <div class="slide2"><img src="images/razer.png" height="250px"></div>
+            <div class="slide2"><img src="images/MSI-Logo.png" height="250px"></div>
+            <div class="slide2"><img src="images/Asus-Logo.png" height="250px"></div>
+        </div>
+    </div>
+    </div>
